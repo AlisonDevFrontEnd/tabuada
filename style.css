@@ -1,0 +1,18 @@
+.btn {
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color: 0.3s ease, color 0.3s ease;
+}
+.btn:hover {
+  background-color: #3498db;
+  color: #fff;
+}
+.dark {
+  background-color: #111;
+  color: lime;
+}
+.multiply {
+  font-size: 3rem;
+}
